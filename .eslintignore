@@ -1,0 +1,4 @@
+templates/
+resources/
+node_modules/
+webapp/utils/locate-reuse-libs.js
